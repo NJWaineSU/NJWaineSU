@@ -4,7 +4,7 @@ M.S., Applied Data Science, Syracuse University '22
 
 B.S., Data Analytics, Bellevue College '20
 
-Aspiring Baseball Operations Analyst with a focus in R, SQL, and Python. 
+Completing Master's degree in May 2022. Currently pursuing a career in Data Science.
 
 
 Email: njwaine@syr.edu
