@@ -1,6 +1,6 @@
-Nicholas Waine
+# Nicholas Waine
 
-M.S. Applied Data Science, Syracuse University '22
+M.S., Applied Data Science, Syracuse University '22
 
 B.S., Data Analytics, Bellevue College '20
 
